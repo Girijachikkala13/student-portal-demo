@@ -1,0 +1,3 @@
+Name:Girija
+course:BSC Computer Science
+I learned about the account creation and repository creation in GitHub
